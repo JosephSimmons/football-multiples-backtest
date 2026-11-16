@@ -1,0 +1,13 @@
+set,bet,legs,bets,strike%,profit_pts,ROI%,ROI 95% CI,1-per-round ROI%,max_drawdown_pts
+PL standard price,single,2363,2363,64.5,-61.1,-2.58,-5.5 to 0.4,-2.6,66.7
+PL standard price,double,2363,3861,41.1,-255.7,-6.62,-13.4 to 0.2,-4.08,267.8
+PL standard price,treble,2363,4381,26.0,-486.2,-11.1,-24.1 to 3.1,-14.57,539.3
+PL best available price,single,2363,2363,64.5,18.3,0.77,-2.2 to 3.8,0.85,26.8
+PL best available price,double,2363,3861,41.1,-10.3,-0.27,-7.6 to 7.1,2.79,115.0
+PL best available price,treble,2363,4381,26.0,-97.0,-2.21,-16.5 to 13.5,-5.5,369.2
+ALL leagues standard price,single,55866,55866,63.2,-2187.6,-3.92,-4.5 to -3.3,-3.53,2203.0
+ALL leagues standard price,double,55866,1855097,40.0,-140968.6,-7.6,-8.8 to -6.3,-7.2,141656.0
+ALL leagues standard price,treble,55866,44625074,25.4,-4942184.5,-11.07,-13.1 to -9.1,-9.46,4960856.5
+ALL leagues best available price,single,55857,55857,63.2,-86.0,-0.15,-0.8 to 0.5,0.32,215.2
+ALL leagues best available price,double,55857,1854673,40.0,-5132.3,-0.28,-1.6 to 1.1,0.37,14552.4
+ALL leagues best available price,treble,55857,44614626,25.4,-145982.4,-0.33,-2.6 to 1.9,1.79,454750.6

@@ -1,0 +1,4 @@
+set,bet,legs,bets,strike%,profit_pts,ROI%,ROI 95% CI,1-per-round ROI%,max_drawdown_pts
+PL all markets,single,2363,2363,64.5,-61.1,-2.58,-5.5 to 0.4,-2.6,66.7
+PL all markets,double,2363,3861,41.1,-255.7,-6.62,-13.4 to 0.2,-4.08,267.8
+PL all markets,treble,2363,4381,26.0,-486.2,-11.1,-24.1 to 3.1,-14.57,539.3

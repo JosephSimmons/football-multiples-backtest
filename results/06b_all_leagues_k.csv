@@ -1,0 +1,4 @@
+set,bet,legs,bets,strike%,profit_pts,ROI%,ROI 95% CI,1-per-round ROI%,max_drawdown_pts
+ALL leagues,single,55866,55866,63.2,-2187.6,-3.92,-4.5 to -3.3,-3.53,2203.0
+ALL leagues,double,55866,1855097,40.0,-140968.6,-7.6,-8.8 to -6.3,-7.2,141656.0
+ALL leagues,treble,55866,44625074,25.4,-4942184.5,-11.07,-13.1 to -9.1,-9.46,4960856.5

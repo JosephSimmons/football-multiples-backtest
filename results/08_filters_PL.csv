@@ -1,0 +1,11 @@
+filter,train_legs,train_single_ROI%,train_double_ROI%,test_legs,test_single_ROI%,test_double_ROI%,test 95% CI
+elo lead <150 & fav in better form (+3),116,4.2,100.8,81,4.0,7.3,-57 to 75
+fav in better form (+3) & Aug-Oct,91,-3.9,35.0,54,13.3,-2.1,-73 to 62
+elo lead 150-300 & Aug-Oct,96,-2.2,26.5,47,20.3,24.1,-17 to 82
+odds 1.50-1.60 & elo lead 150-300,212,2.2,24.6,106,4.9,19.4,-50 to 80
+odds 1.50-1.60 & Aug-Oct,201,8.9,18.2,159,2.3,-2.4,-25 to 25
+Aug-Oct,298,7.2,14.3,272,5.1,7.6,-13 to 29
+market=over & Aug-Oct,91,20.8,14.1,159,-3.6,-22.1,-55 to 10
+fav in worse form (<=0),141,2.7,13.3,68,3.5,29.1,-65 to 113
+market=home & elo lead <150,204,-2.1,11.8,141,4.6,29.6,-23 to 82
+odds 1.40-1.50 & Feb-May,173,-2.9,10.5,157,-4.0,-2.0,-27 to 24
